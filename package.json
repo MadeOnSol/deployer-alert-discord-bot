@@ -11,5 +11,5 @@
   "engines": { "node": ">=20" },
   "keywords": ["solana", "pump-fun", "bonk", "launchlab", "deployer", "discord-bot", "memecoin", "alerts", "madeonsol"],
   "license": "MIT",
-  "repository": { "type": "git", "url": "https://github.com/LamboPoewert/deployer-alert-discord-bot" }
+  "repository": { "type": "git", "url": "https://github.com/madeonsol/deployer-alert-discord-bot" }
 }

@@ -9,7 +9,7 @@ Powered by the [MadeOnSol Deployer Hunter](https://madeonsol.com/deployer-hunter
 ## Quickstart (5 minutes)
 
 ```bash
-git clone https://github.com/LamboPoewert/deployer-alert-discord-bot
+git clone https://github.com/madeonsol/deployer-alert-discord-bot
 cd deployer-alert-discord-bot
 
 # 1. Free API key (200 req/day): https://madeonsol.com/pricing
