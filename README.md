@@ -4,6 +4,8 @@ Post a Discord embed the moment a **tracked Solana deployer** — one with a pro
 
 Powered by the [MadeOnSol Deployer Hunter](https://madeonsol.com/deployer-hunter) — 23,000+ scored deployers, alerts fired in real time from on-chain deploy detection.
 
+📖 **Full tutorial:** [Pump.fun deployer alerts in your Discord — build the bot in 5 minutes](https://madeonsol.com/blog/solana-deployer-alerts-discord-bot-tutorial)
+
 > **Data only, DYOR.** MadeOnSol never executes trades. A good deployer track record is a signal, not a guarantee.
 
 ## Quickstart (5 minutes)
